@@ -1,7 +1,7 @@
 ---
-title: Yuan Zhuang
-role: Professor in actuarial science
-avatar_filename: avatar.jpg
+title: Lianzeng Zhang
+role: Professor in Actuarial Science
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Actuarial Data Science
