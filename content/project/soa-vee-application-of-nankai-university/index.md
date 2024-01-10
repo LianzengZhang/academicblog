@@ -1,7 +1,7 @@
 ---
 title: SOA VEE Application of Nankai University
 date: 2022-12-28T12:38:16.076Z
-summary: "南开大学SOA VEE申请"
+summary: "南开大学精算学系 SOA VEE申请"
 draft: false
 featured: false
 image:

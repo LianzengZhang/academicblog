@@ -2,7 +2,7 @@
 title: Fall 2023 Actuarial Modelling
 subtitle: ""
 date: 2023-11-04T13:25:37.775Z
-summary: "2023年秋季学期精算建模课程"
+summary: "2023年秋季学期 精算建模课程"
 draft: false
 featured: false
 image:

@@ -32,7 +32,7 @@ featured: false
 
 links:
 - name: "Slide"
-  url: "https://yuanzhuang.xyz/uploads/Correlation-matrix-beamer.pdf"
+  url: "https://lianzengzhang.xyz/uploads/Correlation-matrix-beamer.pdf"
 url_pdf: "https://kns.cnki.net/kcms2/article/abstract?v=-93ivAxQXRqzzcNySdFUwk9-dmhl5TXUfvG6GzxDfDLVrTNEsPtz2q5pg0vmNmFoHN1SIhNDuIcYp84e8ub8g8SeIYA9egyjG_QYkQW17KBOu81515Ct-3cwQhtZtWT7IiQxYrTeJCPg0Mq9h9UBtA==&uniplatform=NZKPT&language=CHS"
 
 # Featured image

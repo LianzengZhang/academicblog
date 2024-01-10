@@ -1,7 +1,7 @@
 ---
 title: CAA Actuarial Mathematics
 date: 2023-12-12T03:29:34.239Z
-summary: "中国精算师协会 精算数学项目"
+summary: "中国精算师协会 精算数学教材编写"
 draft: false
 featured: false
 image:
