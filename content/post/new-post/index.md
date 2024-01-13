@@ -48,5 +48,4 @@ WOW! The Wowchemy for Hugo is a very nice tool for me, now I can work with all m
 ## What's Next?
 
 I will try to use Rstudio and Jupyter Notebooks to directly blog on this website.
-
-![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)
+[看看！](https://lianzengzhang.xyz/uploads/Secret/A Science of Concurrent Programs.pdf)
