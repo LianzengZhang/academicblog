@@ -48,4 +48,4 @@ WOW! The Wowchemy for Hugo is a very nice tool for me, now I can work with all m
 ## What's Next?
 
 I will try to use Rstudio and Jupyter Notebooks to directly blog on this website.
-[看看！](https://lianzengzhang.xyz/uploads/Secret/A Science of Concurrent Programs.pdf)
+[看看！](https://lianzengzhang.xyz/uploads/Secret/A%20Science%20of%20Concurrent%20Programs.pdf)
